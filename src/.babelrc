@@ -1,0 +1,13 @@
+// Babel nos servira para poder pasar codigo actual de javascrip a codigo viejo
+// Por ejemplo usar el import envez del require
+{
+    "presets": [
+        "@babel/preset-env"
+    ]
+}
+
+
+
+
+
+
